@@ -14,7 +14,7 @@
 
 ## SNS
 - topic name=`DTQSNSTopicRekog`
-- subscription: email=`tquangdo1103@gmail.com` > confirm by email
+- subscription: email=`xxx@gmail.com` > confirm by email
 
 ## S3
 - bucket name=`dtq-bucket-rekog`
@@ -24,7 +24,7 @@
 2. name=`DTQLambdaRekog`
 3. role=`DTQRoleRekog`
 4. bucket=`dtq-bucket-rekog`
-5. Suffix=`.jpg`
+5. Suffix=`.jpeg`
 6. code: delete function has KW=`face` > add code for "sns"
 ![lambda](screenshots/lambda.png)
 - upload `images/fruits.jpeg` into `dtq-bucket-rekog`
