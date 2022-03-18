@@ -8,7 +8,9 @@
 ![overview](screenshots/overview.png)
 
 ## reference
-[youtube](https://www.youtube.com/watch?v=wnTvVB1ojPk&t=3s)
+1. [youtube1](https://www.youtube.com/watch?v=wnTvVB1ojPk&t=3s)
+2. [youtube2](https://www.youtube.com/watch?v=qoiqYwE7nfU&list=PLjCpH2Qpki-sTjdlYXE8AifSKQFa8ZL23&index=20)
+> basically list/up/download/del bucket & object of S3. NO code, just Youtube screenshot
 
 ## IAM role
 - role name=`DTQRoleRekog`
