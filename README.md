@@ -10,8 +10,10 @@
 ## reference
 1. [youtube1](https://www.youtube.com/watch?v=wnTvVB1ojPk&t=3s)
 2. [youtube2](https://www.youtube.com/watch?v=qoiqYwE7nfU&list=PLjCpH2Qpki-sTjdlYXE8AifSKQFa8ZL23&index=20)
-> basically list/up/download/del bucket & object of S3. NO code, just Youtube screenshot
-
+> basically list/up/download/del bucket & object of S3. Code just in Youtube screenshot
+3. [awsstudygroup](https://000060.awsstudygroup.com/3-gettingstartedwithawssdk/3.2-pythonandynamodb/)
+> basically process with DynamoDB
+ 
 ## IAM role
 - role name=`DTQRoleRekog`
 ![role](screenshots/role.png)
